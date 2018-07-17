@@ -1,2 +1,2 @@
-# Free-Code-Camp-Resolutions
-My FreeCodeCamp exercises resolutions
+# Free-Code-Camp-Resoluções
+FreeCodeCamp - Minhas resoluções dos exercícios
